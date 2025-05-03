@@ -12,6 +12,7 @@ type Post = {
   };
 };
 
+
 async function getAllPosts() {
   const posts = await prisma.post.findMany({
     orderBy: {
