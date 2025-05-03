@@ -1,0 +1,14 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/2fa/status/route": "app/api/2fa/status/route.js",
+  "/api/2fa/setup/route": "app/api/2fa/setup/route.js",
+  "/api/upload/route": "app/api/upload/route.js",
+  "/api/posts/route": "app/api/posts/route.js",
+  "/page": "app/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/settings/2fa/page": "app/settings/2fa/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/blog/[postId]/page": "app/blog/[postId]/page.js",
+  "/admin/posts/new/page": "app/admin/posts/new/page.js"
+}
